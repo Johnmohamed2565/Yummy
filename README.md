@@ -25,4 +25,4 @@ Welcome to **Yummy**, a modern and responsive restaurant homepage built using **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/yummy.git
+   git clone [https://github.com/your-username/yummy](https://github.com/Johnmohamed2565/Yummy).git
